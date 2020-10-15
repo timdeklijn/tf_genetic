@@ -11,6 +11,8 @@ Simple timer test on google colab:
 * mutation_rate = 0.001
 * n_gen = 100000
 
+## Results
+
 | CPU       | GPU       |
 | --------- | --------- |
 | 258.59 s. | 186.52 s. |
